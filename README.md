@@ -5,4 +5,4 @@
 ### Contents
 | Lab Session | Name |
 |-------------|----------------|
-|1|[Introduction to MATLAB]|(..blob/master/lab_01/fcs_lab_01_draft_01.pdf)
+|1|[Introduction to MATLAB](..blob/master/lab_01/fcs_lab_01_draft_01.pdf)|
