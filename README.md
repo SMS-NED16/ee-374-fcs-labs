@@ -15,5 +15,5 @@
 |8|[Step Response/Performance Characteristics](./lab_08/fcs_lab_08_draft_02.pdf)|
 |9|[Response to Arbitrary Inputs](./lab_09/fcs_lab_09_draft_01.pdf)|
 |10|[Block Diagram Reduction](./lab_10/fcs_lab_10_draft_02.pdf)|
-**OE1**|[Open Ended Lab 01 - Practical Rotational System]|(./oe_lab_01/fcs_lab_oe1_draft_03.pdf)
-**OE2**|[Open Ended Lab 02 - PID Controllers]|(./oe_lab_02/fcs_lab_oe2_draft_03.pdf)
+**Open Ended 01**|[Open Ended Lab 01 - Practical Rotational System](./oe_lab_01/fcs_lab_oe1_draft_03.pdf)|
+**Open Ended 02**|[Open Ended Lab 02 - PID Controllers](./oe_lab_02/fcs_lab_oe2_draft_03.pdf)|
