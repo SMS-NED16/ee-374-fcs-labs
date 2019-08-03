@@ -1,0 +1,15 @@
+clear all; close all; clc;
+X0=[0;0];
+[t,X]=ode45('mass_spring',[0 200],X0); 
+figure;
+plot(t,X(:,1));
+xlabel('Time(t)'); 
+ylabel('Position'); 
+title('Mass spring system'); 
+legend('Position '); grid;
+figure; 
+plot(t,X(:,2),'r'); 
+xlabel('Time(t)'); ylabel('Speed'); 
+title('Mass spring system'); 
+legend('Speed '); 
+grid;
